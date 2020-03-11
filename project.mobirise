@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Guia do sabonete Artesanal - Pp",
-    "currentPage": "page4.html",
+    "currentPage": "html.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1395,7 +1395,7 @@
         }
       ]
     },
-    "page4.html": {
+    "html.html": {
       "settings": {
         "title": "Apostila de Velas Artesanais",
         "meta_descr": "Aprenda a fazer Vela Artesanal com A Apostila com Passo a passo.\nVela em Gel, Vela Aromatica, Vela Flutuante, Vela Velas flutuantes;\nVelas multicoloridas;\nVelas com essências;\nVelas ecológicas;\nVela em gel;\nVela aquário;\nVela em grãos;\nVela em mosaico;\nVela temática;\nVela surpresa.",
