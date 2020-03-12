@@ -48,7 +48,8 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "google-analytics": "<script type=\"text/javascript\" src=\"https://app.monetizze.com.br/1buyclick.php?u=9fe9ec61ea8a8a7fec3705165d24e07c\"></script>\n\n<script type=\"text/javascript\" src=\"https://app.monetizze.com.br/1buyclick.php?u=9f072d824c9c0ff2b3a7715dd25ab75c\"></script>\n\n<script type=\"text/javascript\" src=\"https://app.monetizze.com.br/1buyclick.php?u=d5acb3ca18d42adaf77de710b80f53fa\"></script>\n\n<script type=\"text/javascript\" src=\"https://app.monetizze.com.br/1buyclick.php?u=778c162bf061415f3e77ccfbee799fdf\"></script>\n<script type=\"text/javascript\" src=\"https://app.monetizze.com.br/1buyclick.php?u=34bdc3ebeb64c4d0ad2ebd7c00818b8e\"></script>\n"
   },
   "pages": {
     "index.html": {
